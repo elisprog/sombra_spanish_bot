@@ -1,0 +1,6 @@
+aiogram==3.4.1
+openpyxl
+moviepy
+whisper
+torch
+nest_asyncio
