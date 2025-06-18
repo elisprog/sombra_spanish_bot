@@ -65,3 +65,4 @@ def extract_top_bigrams(text, top_n=50, exclude_words=None):
 Частотные биграммы:
 ['me llamo', 'el perro', 'de la', 'un poco', ...]
 ```
+![photo_2025-06-18 21 25 55](https://github.com/user-attachments/assets/9fb5ccaf-af19-47cd-9a14-32ee07433f66)
