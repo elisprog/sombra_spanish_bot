@@ -57,7 +57,7 @@ def extract_top_bigrams(text, top_n=50, exclude_words=None):
     return top_bigrams
 ```
 
-Пример вывода:
+Результаты использовались для генерации заданий с пропущенными словами.
 
 ```
 Ключевые слова (TF-IDF):
@@ -65,5 +65,3 @@ def extract_top_bigrams(text, top_n=50, exclude_words=None):
 Частотные биграммы:
 ['me llamo', 'el perro', 'de la', 'un poco', ...]
 ```
-
-Результаты использовались для генерации заданий с пропущенными словами в боте.
