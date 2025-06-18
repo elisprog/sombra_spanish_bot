@@ -4,3 +4,4 @@ moviepy
 whisper
 torch
 nest_asyncio
+requests
