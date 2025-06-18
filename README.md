@@ -1,14 +1,26 @@
-A telegram chatbot for students of Spanish as a second language
+Telegram Language Learning Bot
 
-"Shadowing practice chatbot for Spanish"
+Телеграм-бот для изучения испанского языка с помощью видеофрагментов, текстовых упражнений и распознавания речи.
 
-1. Preparation:
-   - recognition of speech from a video (using Whisper)
-   - extracting key words (TF-IDF) and frequent bigrams (Counter)
-   - creating a table with data for a clipmaker (start, end and text for each block of the video)
-2. Main:
-   - creating exercises "fill in the gaps"
-   - creting an evaluation tester for the pronunciation (Whisper, Levenshtein distance)
-3. Final work:
-   - creating and adapting a chatbot for telegram
+Описание
+
+Бот отправляет пользователю видеоклипы с фрагментами из видео, предлагает заполнить пропущенные слова в тексте, а также записать и отправить своё произношение. Бот проверяет аудио на соответствие оригинальному тексту с помощью модели Whisper и показывает оценку правильности произношения.
+
+Функционал
+
+Загрузка и отправка видеофрагментов из одного большого видеофайла.
+Задания на заполнение пропущенных слов (gap-fill exercise).
+Приём голосовых сообщений и их расшифровка.
+Оценка произношения пользователя с обратной связью.
+Навигация между фрагментами (вперёд, назад, повтор).
+Автоматическое скачивание видео из Google Drive при необходимости.
+Используемые библиотеки
+
+aiogram — фреймворк для создания Telegram-ботов.
+moviepy — для работы с видео.
+openpyxl — для работы с Excel.
+whisper — модель распознавания речи.
+nest_asyncio — для работы с asyncio в Jupyter и подобных средах.
+requests — для скачивания файлов.
+Стандартные библиотеки: os, re, asyncio, difflib.
   
