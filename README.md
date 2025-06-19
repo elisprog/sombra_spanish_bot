@@ -66,11 +66,11 @@ def extract_top_bigrams(text, top_n=50, exclude_words=None):
 ['me llamo', 'el perro', 'de la', 'un poco', ...]
 ```
 ### 3. Был проведён кластерный анализ (тематическое моделирование) методом латентного размещения Дирихле LDA, в результате которого было выделено 5 кластеров
-<img width="1203" alt="Снимок экрана 2025-06-19 в 16 42 04" src="https://github.com/user-attachments/assets/55efe759-27ed-4eff-ae32-21bb165c83d6" />
-<img width="1203" alt="Снимок экрана 2025-06-19 в 16 41 59" src="https://github.com/user-attachments/assets/d26bae04-8006-484b-b42a-4e94d0f0f2a0" />
-<img width="1203" alt="Снимок экрана 2025-06-19 в 16 41 56" src="https://github.com/user-attachments/assets/56fc6c10-009e-46c2-8157-13c3a43b51c6" />
-<img width="1203" alt="Снимок экрана 2025-06-19 в 16 41 52" src="https://github.com/user-attachments/assets/10358258-e561-4d2a-a2f4-185def5cecbb" />
-<img width="1203" alt="Снимок экрана 2025-06-19 в 16 41 46" src="https://github.com/user-attachments/assets/4b027999-9caf-4cd8-9640-5a71cddd3fcd" />
+<img width="200" height="370" alt="Снимок экрана 2025-06-19 в 16 42 04" src="https://github.com/user-attachments/assets/55efe759-27ed-4eff-ae32-21bb165c83d6" />
+<img width="200" height="370" alt="Снимок экрана 2025-06-19 в 16 41 59" src="https://github.com/user-attachments/assets/d26bae04-8006-484b-b42a-4e94d0f0f2a0" />
+<img width="200" height="370" alt="Снимок экрана 2025-06-19 в 16 41 56" src="https://github.com/user-attachments/assets/56fc6c10-009e-46c2-8157-13c3a43b51c6" />
+<img width="200" height="370" alt="Снимок экрана 2025-06-19 в 16 41 52" src="https://github.com/user-attachments/assets/10358258-e561-4d2a-a2f4-185def5cecbb" />
+<img width="200" height="370" alt="Снимок экрана 2025-06-19 в 16 41 46" src="https://github.com/user-attachments/assets/4b027999-9caf-4cd8-9640-5a71cddd3fcd" />
 
 
 
