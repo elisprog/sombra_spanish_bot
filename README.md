@@ -72,11 +72,3 @@ def extract_top_bigrams(text, top_n=50, exclude_words=None):
 <img width="500" height="270" alt="Снимок экрана 2025-06-19 в 16 41 56" src="https://github.com/user-attachments/assets/56fc6c10-009e-46c2-8157-13c3a43b51c6" />
 <img width="500" height="270" alt="Снимок экрана 2025-06-19 в 16 41 59" src="https://github.com/user-attachments/assets/d26bae04-8006-484b-b42a-4e94d0f0f2a0" />
 <img width="500" height="270" alt="Снимок экрана 2025-06-19 в 16 42 04" src="https://github.com/user-attachments/assets/55efe759-27ed-4eff-ae32-21bb165c83d6" />
-
-
-
-
-
-
-
-<img>: <img src="https://github.com/user-attachments/assets/9fb5ccaf-af19-47cd-9a14-32ee07433f66" alt="sombra_bot" width="150" height="270">
