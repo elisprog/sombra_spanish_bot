@@ -60,7 +60,7 @@ download_video()
 nest_asyncio.apply()
 
 # --- Настройки ---
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "ВАШ_ТОКЕН")
+TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "7481970874:AAGtUTbF11D46zz6AtCndzZBN_rJR2TnPXg")
 VIDEO_PATH = "Extra1.mp4"
 FRAGMENTS_DIR = "fragments"
 USER_AUDIO_DIR = "user_audio"
